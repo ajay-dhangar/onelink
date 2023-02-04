@@ -38,7 +38,7 @@
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
         <a
-          href="https://github.com/fayazara/onelink"
+          href="https://github.com/Ajay-Dhangar/onelink"
           target="_blank"
           class="h-12 flex items-center space-x-2 px-4 border-r text-xs font-medium bg-white text-slate-700"
         >
@@ -49,11 +49,11 @@
     </div>
     <app-form-preview :data="data" />
     <a
-      href="https://twitter.com/fayazara"
+      href="https://www.linkedin.com/in/ajay-dhangar-bb89b4227/"
       target="_blank"
       class="absolute bottom-0 right-0 bg-white rounded-tl-lg shadow px-4 py-1 font-medium text-sm text-gray-500"
     >
-      Made by Fayaz
+      Made by Ajay Dhangar 
     </a>
   </div>
 </template>
@@ -78,43 +78,43 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    n: "Ajay Dhangar",
+    d: "I’m Web Developer, YouTuber, and Learner.",
+    i: "https://avatars.githubusercontent.com/u/99037494?v=4",
+    f: "https://www.facebook.com/profile.php?id=100078316657152",
+    t: "https://twitter.com/AJAYDHA27250016",
+    ig: "https://www.instagram.com/aj.edu.in/",
+    e: "ajaydhangar49@gmail.com",
+    gh: "https://github.com/Ajay-Dhangar",
+    tg: "https://t.me/aj_zero_coding",
+    w: "+91 7024592105",
+    y: "https://www.youtube.com/@Ajay-Dhangar",
+    l: "https://www.linkedin.com/in/ajay-dhangar-bb89b4227/",
     ls: [
       {
         l: "My Website",
         i: "ph:globe-duotone",
-        u: "https://example.com",
+        u: "https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#home",
       },
       {
-        l: "Amazon wishlist",
-        i: "ant-design:amazon-outlined",
-        u: "https://amazon.in",
+        l: "Medium",
+        i: "ant-design:medium-outlined",
+        u: "https://ajaydhangar49.medium.com/",
       },
       {
-        l: "React JS course",
-        i: "grommet-icons:reactjs",
-        u: "https://reactjs.org/",
+        l: "CSS course",
+        i: "grommet-icons:css3",
+        u: "https://github.com/Ajay-Dhangar/CSS3-Mastery",
       },
       {
         l: "Donate for our cause",
         i: "iconoir:donate",
-        u: "https://who.int",
+        u: "https://topmate.io/ajay_dhangar/132375",
       },
       {
         l: "Download my resume",
         i: "ph:file-pdf",
-        u: "https://google.com",
+        u: "https://drive.google.com/file/d/1aDq7ihLLrMsssBb1GuwimURztB1x92qC/view",
       },
     ],
   };
