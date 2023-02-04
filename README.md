@@ -2,10 +2,32 @@
 
 Onelink is an experimental link-in-bio tool, where the data lives in the URL. 
 
-![screencapture-onelink-ajay-vercel-app-2023-02-02-09_25_38](https://user-images.githubusercontent.com/99037494/216228111-4ec6ea85-cd22-4baa-8f5a-cfb1082051af.png)
+![screencapture-onelink-ajay-vercel-app-2023-02-04-10_40_24](https://user-images.githubusercontent.com/99037494/216749916-8466c034-ec03-4cf0-9b52-279e11bd6f35.png)
 
-> **Note**
-> Since the URL can become very long, it's better to use a link shortener like https://dub.sh
+<a href="https://www.youtube.com/channel/UCRQBq8dfTEZfIMxmq-Ba9Tw" target="_blank">
+<img src=https://img.shields.io/badge/YouTube_Subscriber-1.11K-orange.svg?style=flat-square=behance&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+  
+ <a href="https://bettercodehub.com/" target="_blank">
+<img src=https://img.shields.io/badge/Better_Code-8/10-orange.svg?style=flat-square=behance&logoColor=white alt=bettercodehub style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://opencollective.com/twitter-bio" target="_blank">
+<img src=https://opencollective.com/twitter-bio/tiers/badge.svg alt=opencollective style="margin-bottom: 5px;" />
+</a> 
+ 
+<a href="https://feedingtrends.com/u/ajaydhangar49" target="_blank">
+<img src=https://img.shields.io/badge/Feeding_Trends-31-orange.svg?style=flat-square=behance&logoColor=white alt=feedingtrend style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://ajaydhangar49.hashnode.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Hashnode-6-orange.svg?style=flat-square=behance&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a> 
+
+<a href="https://ajaydhangar49.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/Medium-31-orange.svg?style=flat-square=behance&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> 
+
 
 Here's a demo page
 
